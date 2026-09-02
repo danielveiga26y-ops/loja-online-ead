@@ -2,7 +2,6 @@
 
 
 function calcularTotal(itens) {
-
    let total = 0
 
    for (let i = 0; i < itens.length; i++) {
@@ -12,5 +11,4 @@ function calcularTotal(itens) {
    }
 
    return total
-
 }
